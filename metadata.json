@@ -1,0 +1,6 @@
+{
+  "name": "Chronicle30 — Long-Form 20-30m Video Studio",
+  "description": "Full-length 20 to 30 minute video generator and synthesizer from scripts and images with Ken Burns cinematics, Gemini voiceover, dynamic timeline, and WebM/SRT export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
